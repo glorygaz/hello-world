@@ -1,2 +1,4 @@
 # hello-world
-The beginning of Github
+The beginning of GitHub
+
+GitHub Guide Step 3.
